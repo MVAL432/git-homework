@@ -2,5 +2,5 @@ Git is a distributed version control system that helps developers track changes 
 
 
 Key benefits of Git include:
-- Branching allows developers to work on features independently without affecting the main codebase
-- Git maintains a complete history of all changes, making it easy to revert to previous versions when needed
+- Branching allows developers to work on features independently without affecting the main codebase.
+- Git maintains a complete history of all changes, making it easy to revert to previous versions when needed.
